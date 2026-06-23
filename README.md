@@ -12,7 +12,7 @@ Tools: n8n | GoHighLevel | Zapier | CustomGPT
 Skills: Automation • Workflows • APIs • AI Solutions
 </div>
 
-
+---------------------------------------------
 
 <h3 align="left">🚀About Me:</h3>
 
@@ -34,7 +34,7 @@ Passionate about automation, process optimization, and creating practical techno
 
 • Problem Solving
 
----------------------------------------------
+
 
 <h3 align="left">📬 Let's Connect:
 </h3>
