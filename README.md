@@ -18,7 +18,7 @@ I design and build custom automation solutions that streamline workflows, improv
 
 Passionate about automation, process optimization, and creating practical technology-driven solutions.
 
-----------------------------------------------
+---------------------------------------------
 
 🛠 Core Expertise
 
@@ -34,6 +34,7 @@ Passionate about automation, process optimization, and creating practical techno
 
 • Problem Solving
 
+---------------------------------------------
 
 📬 Let's Connect
 
