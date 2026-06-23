@@ -11,19 +11,20 @@
 Skills: n8n | GoHighLevel | Zapier | CustomGPT
 </div>
 
-- 🔭 I’m currently working on [Hablu Programmer](https://www.hablu-programmer.com/)
+### 🛠 My Focus
+* **Automation Specialist:** I focus on architecting AI-driven workflows using **n8n**, **Zapier**, and **CustomGPT** to solve real-world problems.
+* **Content Creation:** I am dedicated to digital storytelling and sharing my learning journey as I master AI and automation tools.
+* **Problem Solver:** I enjoy exploring how AI can simplify complex tasks and improve productivity.
 
-- 🌱 I’m currently learning Golang, C++
+### ⚡ Technical Expertise
+* **Automation Platforms:** n8n, Zapier, GoHighLevel.
+* **AI Tools:** CustomGPT, Vector Databases (Pinecone/Astra DB).
+* **Learning Focus:** Currently deep-diving into Python for building advanced AI Agents and workflow automation scripts.
 
-- 👨‍💻 All of my projects are available at [https://github.com/harun181](https://github.com/harun181)
-
-- 📝 I regularly write articles on [https://medium.com/@codiiz](https://medium.com/@codiiz)
-
-- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap, TailwindCSS, ReactJS, NextJS**
-
-- 📫 How to reach me **programmerharun@gmail.com**
-
-- 📄 All About Me:[https://lnk.bio/tutul181](https://lnk.bio/tutul181)
+### 📫 Connect with me
+* **Email:** [আপনার ইমেইল ঠিকানা এখানে লিখুন]
+* **Projects:** [আপনার GitHub প্রোফাইলের লিঙ্ক এখানে বসান]
+* **Portfolio:** [আপনার যদি কোনো পোর্টফোলিও লিঙ্ক থাকে তা এখানে দিন]
 
 <h3 align="left">Connect with me:</h3>
 
