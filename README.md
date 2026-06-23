@@ -36,7 +36,7 @@ Passionate about automation, process optimization, and creating practical techno
 
 ---------------------------------------------
 
-<h3 align="left">🛠📬 Let's Connect:
+<h3 align="left">📬 Let's Connect:
 </h3>
 
 📧 your-email@example.com
