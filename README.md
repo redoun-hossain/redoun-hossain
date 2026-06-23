@@ -1,7 +1,8 @@
 ![I am harun181](https://github.com/redoun-hossain/redoun-hossain/blob/main/code.png)
 
 <h1 align="center">Hi 👋, I'm REDOUN HOSSAIN</h1>
-<h3 align="center">AI Agent Automation Specialist | Content Creator</h3>
+<h3 align="center">Automation Enthusiast | Workflow Builder | Problem Solver
+</h3>
 <div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=redoun-hossain&color=red)
