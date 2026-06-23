@@ -10,7 +10,7 @@
 Tools: n8n | GoHighLevel | Zapier | CustomGPT
 </div>
 
-Skills: Automation • Workflows • APIs • AI Solutions
+<align="center">Skills: Automation • Workflows • APIs • AI Solutions
 </div>
 
 ---------------------------------------------
