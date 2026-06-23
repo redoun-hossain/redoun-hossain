@@ -8,9 +8,8 @@
 ![Profile views](https://komarev.com/ghpvc/?username=redoun-hossain&color=red)
 
 Tools: n8n | GoHighLevel | Zapier | CustomGPT
-</div>
 
-<align="center">Skills: Automation • Workflows • APIs • AI Solutions
+Skills: Automation • Workflows • APIs • AI Solutions
 </div>
 
 ---------------------------------------------
