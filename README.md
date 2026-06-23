@@ -2,8 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm REDOUN HOSSAIN</h1>
 <h3 align="center">AI Agent Automation Specialist | Content Creator</h3>
-<h4 align="center">Co-founder & Chief Operating Officer at Hablu Programmer</h4>
-
 <div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=redoun-hossain&color=red)
