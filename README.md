@@ -1,7 +1,7 @@
 ![I am harun181](https://github.com/redoun-hossain/redoun-hossain/blob/main/code.png)
 
 <h1 align="center">Hi 👋, I'm REDOUN HOSSAIN</h1>
-<h3 align="center">Automation Enthusiast | Workflow Builder | Problem Solver
+<h3 align="center">AI Agent Automation Specialist | Workflow Builder | Problem Solver
 </h3>
 <div align="center">
 
@@ -10,20 +10,37 @@
 Skills: n8n | GoHighLevel | Zapier | CustomGPT
 </div>
 
-### 🛠 My Focus
-* **Automation Specialist:** I focus on architecting AI-driven workflows using **n8n**, **Zapier**, and **CustomGPT** to solve real-world problems.
-* **Content Creation:** I am dedicated to digital storytelling and sharing my learning journey as I master AI and automation tools.
-* **Problem Solver:** I enjoy exploring how AI can simplify complex tasks and improve productivity.
+🚀 About Me
 
-### ⚡ Technical Expertise
-* **Automation Platforms:** n8n, Zapier, GoHighLevel.
-* **AI Tools:** CustomGPT, Vector Databases (Pinecone/Astra DB).
-* **Learning Focus:** Currently deep-diving into Python for building advanced AI Agents and workflow automation scripts.
+I design and build custom automation solutions that streamline workflows, improve efficiency, and help solve real-world business challenges.
 
-### 📫 Connect with me
-* **Email:** [আপনার ইমেইল ঠিকানা এখানে লিখুন]
-* **Projects:** [আপনার GitHub প্রোফাইলের লিঙ্ক এখানে বসান]
-* **Portfolio:** [আপনার যদি কোনো পোর্টফোলিও লিঙ্ক থাকে তা এখানে দিন]
+Passionate about automation, process optimization, and creating practical technology-driven solutions.
+
+🛠 Core Expertise
+
+• Custom Automation Solutions
+
+• Workflow Design & Optimization
+
+• API Integrations
+
+• Business Process Automation
+
+• AI-Powered Workflows
+
+• Problem Solving
+
+📬 Let's Connect
+
+📧 your-email@example.com
+
+🌐 your-portfolio-link
+
+💻 https://github.com/yourusername
+
+💼 Fiverr: your-fiverr-profile
+
+💼 Upwork: your-upwork-profile
 
 <h3 align="left">Connect with me:</h3>
 
