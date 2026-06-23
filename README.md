@@ -10,6 +10,7 @@
 Skills: n8n | GoHighLevel | Zapier | CustomGPT
 </div>
 
+---------------------------------------------
 
 🚀 About Me
 
@@ -17,6 +18,7 @@ I design and build custom automation solutions that streamline workflows, improv
 
 Passionate about automation, process optimization, and creating practical technology-driven solutions.
 
+----------------------------------------------
 
 🛠 Core Expertise
 
