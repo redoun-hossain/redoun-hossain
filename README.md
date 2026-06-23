@@ -1,4 +1,4 @@
-![I am harun181](https://github.com/harun181/harun181/blob/main/code.png)
+![I am harun181](https://github.com/redoun-hossain/redoun-hossain/blob/main/code.png)
 
 <h1 align="center">Hi 👋, I'm REDOUN HOSSAIN</h1>
 <h3 align="center">AI Agent Automation Specialist | Content Creator</h3>
@@ -8,8 +8,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=redoun-hossain&color=red)
 
-Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
-
+Skills: n8n | GoHighLevel | Zapier | CustomGPT
 </div>
 
 - 🔭 I’m currently working on [Hablu Programmer](https://www.hablu-programmer.com/)
