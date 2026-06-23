@@ -22,6 +22,7 @@ Passionate about automation, process optimization, and creating practical techno
                                    
 <h3 align="left">🛠Core Expertise:
 </h3>
+
 • Custom Automation Solutions
 
 • Workflow Design & Optimization
