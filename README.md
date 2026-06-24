@@ -37,21 +37,9 @@ Passionate about automation, process optimization, and creating practical techno
 
 
 
+
 <h3 align="left">📬 Let's Connect:
 </h3>
-
-📧 your-email@example.com
-
-🌐 your-portfolio-link
-
-💻 https://github.com/yourusername
-
-💼 Fiverr: your-fiverr-profile
-
-💼 Upwork: your-upwork-profile
-
-
-<h3 align="left">Connect with me:</h3>
 
 <a href="https://www.fiverr.com/yourusername" target="_blank">
 <img align="center" src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
@@ -75,10 +63,7 @@ Passionate about automation, process optimization, and creating practical techno
 
 </p>
 
-
-
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📬Connect with me:</h3>
 
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul181" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a>
