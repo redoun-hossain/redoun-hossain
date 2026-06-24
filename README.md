@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/redoun-hossain/redoun-hossain/blob/main/ChatGPT%20Image%20Jun%2023%2C%202026%2C%2004_08_36%20PM.png" width="100%"/>
+  <img src="https://github.com/redoun-hossain/redoun-hossain/blob/main/ChatGPT%20Image%20Jun%2023%2C%202026%2C%2004_08_36%20PM.png" width="90%"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm REDOUN HOSSAIN</h1>
@@ -7,7 +7,7 @@
 <h3 align="center">AI Automation Builder | n8n Workflow Expert | API & System Integration Specialist</h3>
 
 <p align="center">
-🚀Skills: Automation • Workflow Optimization • API Integrations • AI Agents • Business Automation
+🚀 Skills: Automation • Workflow Optimization • API Integrations • AI Agents • Business Automation
 </p>
 
 <p align="center">
@@ -129,5 +129,7 @@ I design and develop AI-driven automation systems and workflow solutions that he
 <br/>
 
 
-💬 Open for Freelance AI Automation Projects  
-📩 Available for n8n, GoHighLevel, Zapier & AI Agent Development
+<p align="center">
+💬 Open for Freelance AI Automation Projects<br/>
+📩 Available for n8n • GoHighLevel • Zapier • AI Agent Development
+</p>
