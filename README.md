@@ -140,5 +140,5 @@ I design and develop AI-driven automation systems and workflow solutions that he
 
 <p align="center">
 💬 Open for Freelance AI Automation Projects<br/>
-📩 Let’s build powerful AI automation systems that scale your business
+📩 Let’s build scalable AI automation systems that automate your business
 </p>
