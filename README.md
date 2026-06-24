@@ -41,49 +41,37 @@ Passionate about automation, process optimization, and creating practical techno
 <h2 align="left">📬 Connect With Me</h2>
 
 <p align="left">
-
 <a href="YOUR_FIVERR_LINK" target="_blank">
-<img src="https://cdn.simpleicons.org/fiverr/1DBF73" alt="Fiverr" width="35" height="35"/>
+<img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
 </a>
 
 <a href="YOUR_UPWORK_LINK" target="_blank">
-<img src="https://cdn.simpleicons.org/upwork/6FDA44" alt="Upwork" width="35" height="35"/>
+<img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
 </a>
 
 <a href="YOUR_LINKEDIN_LINK" target="_blank">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="35" height="35"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://github.com/redoun-hossain" target="_blank">
-<img src="https://cdn.simpleicons.org/github" alt="GitHub" width="35" height="35"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="YOUR_WEBSITE_LINK" target="_blank">
-<img src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Website" width="35" height="35"/>
+<img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
-</p>
-
-<h2 align="left">🌐 Social Media</h2>
-
-<p align="left">
-
 <a href="YOUR_FACEBOOK_LINK" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="35" width="35" />
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
 <a href="YOUR_YOUTUBE_LINK" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="35" width="35" />
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
 <a href="YOUR_INSTAGRAM_LINK" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="35" />
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-
-<a href="YOUR_TWITTER_LINK" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="35" width="35" />
-</a>
-
 </p>
 
 ## 🛠 Tools & Technologies
