@@ -38,40 +38,53 @@ Passionate about automation, process optimization, and creating practical techno
 
 
 
-<h3 align="left">📬 Let's Connect:
-</h3>
+<h2 align="left">📬 Connect With Me</h2>
 
-<a href="https://www.fiverr.com/yourusername" target="_blank">
-<img align="center" src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
+<p align="left">
+
+<a href="YOUR_FIVERR_LINK" target="_blank">
+<img src="https://cdn.simpleicons.org/fiverr/1DBF73" alt="Fiverr" width="35" height="35"/>
 </a>
 
-<a href="https://www.upwork.com/freelancers/yourusername" target="_blank">
-<img align="center" src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
+<a href="YOUR_UPWORK_LINK" target="_blank">
+<img src="https://cdn.simpleicons.org/upwork/6FDA44" alt="Upwork" width="35" height="35"/>
 </a>
 
-<a href="https://www.linkedin.com/in/yourusername" target="_blank">
-<img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="YOUR_LINKEDIN_LINK" target="_blank">
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="35" height="35"/>
 </a>
 
 <a href="https://github.com/redoun-hossain" target="_blank">
-<img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://cdn.simpleicons.org/github" alt="GitHub" width="35" height="35"/>
 </a>
 
-<a href="https://yourwebsite.com" target="_blank">
-<img align="center" src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<a href="YOUR_WEBSITE_LINK" target="_blank">
+<img src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Website" width="35" height="35"/>
 </a>
 
 </p>
 
-<h3 align="left">📬Connect with me:</h3>
+<h2 align="left">🌐 Social Media</h2>
 
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul181" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Learn With Tutul" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tutul_181" height="30" width="40" /></a>
+<p align="left">
+
+<a href="YOUR_FACEBOOK_LINK" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="35" width="35" />
+</a>
+
+<a href="YOUR_YOUTUBE_LINK" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="35" width="35" />
+</a>
+
+<a href="YOUR_INSTAGRAM_LINK" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="35" />
+</a>
+
+<a href="YOUR_TWITTER_LINK" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="35" width="35" />
+</a>
 
 </p>
-
 
 ## 🛠 Tools & Technologies
 
