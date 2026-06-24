@@ -44,6 +44,9 @@ I design and develop AI-driven automation systems workflow solutions that help b
 <hr/>
 <br/>
 
+
+<div align="center">
+
 ## 🛠 Tools & Technologies:
 
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
@@ -103,10 +106,12 @@ I design and develop AI-driven automation systems workflow solutions that help b
 
 </p>
 
+</div>
 
 <br/>
 <hr/>
 <br/>
+
 
 ## 📊 GitHub Stats
 
