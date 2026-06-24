@@ -3,10 +3,14 @@
 <h1 align="center">Hi 👋, I'm REDOUN HOSSAIN</h1>
 <h3 align="center">AI Automation Builder | n8n Workflow Expert | API & System Integration Specialist</h3> <div align="center">
 
-  <div align="center">
+  
+<div align="center">
+  
 Skills: Automation • Workflow Optimization • API Integrations • AI Agents • Business Automation
+
 ![Profile views](https://komarev.com/ghpvc/?username=redoun-hossain&color=red)
-  </div>
+
+</div>
 
 <br/>
 <hr/>
