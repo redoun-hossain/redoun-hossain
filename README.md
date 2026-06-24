@@ -6,7 +6,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=redoun-hossain&color=red)
 
-Skills: Automation • Workflow Optimization • API Integrations • AI Solutions
+Skills: Automation • Workflow Optimization • API Integrations • AI Agents • Business Automation
 </div>
 
 <br/>
