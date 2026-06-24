@@ -14,13 +14,12 @@ Skills: Automation • Workflow Optimization • API Integrations • AI Solutio
 <hr/>
 <br/>
 
-<h3 align="left">🚀 About Me:</h3>
+## 🚀 About Me
 
-I design and build custom automation solutions that streamline workflows, improve efficiency, and help solve real-world business challenges.
-
-Passionate about automation, process optimization, and creating practical technology-driven solutions.
+I design and build custom automation solutions that streamline workflows, improve efficiency, and solve real-world business challenges.
+Passionate about automation, process optimization, and creating practical technology-driven solutions that deliver measurable results.
                                    
-<h3 align="left">🛠 Core Expertise:</h3>
+## 🛠 Core Expertise
 
 • Custom Automation Solutions
 
