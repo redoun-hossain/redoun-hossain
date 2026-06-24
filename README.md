@@ -36,7 +36,7 @@ Passionate about automation, process optimization, and creating practical techno
 • Problem Solving
 
 
-
+-------------
 
 ## 📬 Professional Links
 
@@ -65,6 +65,8 @@ Passionate about automation, process optimization, and creating practical techno
 ![CustomGPT](https://img.shields.io/badge/CustomGPT-412991?style=for-the-badge)
 ![API Integration](https://img.shields.io/badge/API%20Integration-4CAF50?style=for-the-badge)
 ![Webhooks](https://img.shields.io/badge/Webhooks-FF9800?style=for-the-badge)
+
+-----------
 
 ## Best Repo -
 
