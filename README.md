@@ -72,10 +72,31 @@ I design and develop AI-driven automation systems workflow solutions that help b
 
 ## 🏆 Best Projects
 <p align="center">
-  <a href="https://github.com/redoun-hossain?tab=repositories" target="_blank">
-    <img alt="Explore Projects"
-    src="https://img.shields.io/badge/🚀%20Explore%20My%20AI%20Automation%20Projects-000000?style=for-the-badge&logo=github&logoColor=white"/>
+
+  <a href="https://github.com/redoun-hossain/n8n-workflow-automation-system" target="_blank">
+    <img src="https://img.shields.io/badge/n8n%20Automation%20System-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white"/>
   </a>
+
+  <a href="https://github.com/redoun-hossain/ai-rag-knowledge-base-agent" target="_blank">
+    <img src="https://img.shields.io/badge/AI%20RAG%20Agent-7F3FBF?style=for-the-badge&logo=openai&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/redoun-hossain/lead-generation-automation-system" target="_blank">
+    <img src="https://img.shields.io/badge/Lead%20Gen%20Automation-00C853?style=for-the-badge&logo=target&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/redoun-hossain/ai-appointment-booking-agent" target="_blank">
+    <img src="https://img.shields.io/badge/Appointment%20AI%20Agent-FF9800?style=for-the-badge&logo=googlecalendar&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/redoun-hossain/go-high-level-automation" target="_blank">
+    <img src="https://img.shields.io/badge/GoHighLevel%20Automation-2962FF?style=for-the-badge&logo=hubspot&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/redoun-hossain/customgpt-workflows" target="_blank">
+    <img src="https://img.shields.io/badge/CustomGPT%20Workflows-FF3D00?style=for-the-badge&logo=openai&logoColor=white"/>
+  </a>
+
 </p>
 
 ## 🏆Best Repo -
