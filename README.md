@@ -127,3 +127,7 @@ I design and develop AI-driven automation systems and workflow solutions that he
 <br/>
 <hr/>
 <br/>
+
+
+💬 Open for Freelance AI Automation Projects  
+📩 Available for n8n, GoHighLevel, Zapier & AI Agent Development
