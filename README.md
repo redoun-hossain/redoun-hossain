@@ -45,7 +45,7 @@ I design and develop AI-driven automation systems workflow solutions that help b
 <br/>
 
 
-<div align="center">
+<div align="left">
 
 ## 🛠 Tools & Technologies:
 
