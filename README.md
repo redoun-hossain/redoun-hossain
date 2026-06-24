@@ -102,11 +102,12 @@ I design and develop AI-driven automation systems workflow solutions that help b
 
   <a href="https://github.com/redoun-hossain" target="_blank">
     <img src="https://img.shields.io/badge/Best%20Project%206-FF3D00?style=for-the-badge&logo=github&logoColor=white"/>
+  </div>
   </a>
 
 </p>
 
-</div>
+
 
 <br/>
 <hr/>
