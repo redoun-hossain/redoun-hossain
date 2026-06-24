@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/redoun-hossain/redoun-hossain/blob/main/ChatGPT%20Image%20Jun%2023%2C%202026%2C%2004_08_36%20PM.png" width="90%"style="border-radius:10px;"/>
+  <img src="https://github.com/redoun-hossain/redoun-hossain/blob/main/ChatGPT%20Image%20Jun%2023%2C%202026%2C%2004_08_36%20PM.png" width="90%" style="border-radius:10px;"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm REDOUN HOSSAIN</h1>
@@ -7,7 +7,7 @@
 <h3 align="center">AI Automation Builder | n8n Workflow Expert | API & System Integration Specialist</h3>
 
 <p align="center">
-🚀 Automation • Workflow Optimization • API Integrations • AI Agents • Business Automation
+⚡ Skills: Automation • Workflow Optimization • API Integrations • AI Agents • Business Automation
 </p>
 
 <p align="center">
@@ -33,6 +33,15 @@ I design and develop AI-driven automation systems and workflow solutions that he
 🔥 AI-Powered Workflows  
 🔥 AI Agent Development  
 🔥 Problem Solving  
+
+
+## 💼 What I Offer
+
+✅ AI-Powered Automation Solutions using n8n, Zapier & GoHighLevel  
+✅ End-to-End Workflow & Business Process Automation  
+✅ API & Third-Party Integrations  
+✅ Custom AI Agents & CustomGPT Solutions  
+✅ Scalable Automation Systems for Businesses  
 
 <br/>
 <hr/>
@@ -131,5 +140,5 @@ I design and develop AI-driven automation systems and workflow solutions that he
 
 <p align="center">
 💬 Open for Freelance AI Automation Projects<br/>
-📩 Let’s build your AI automation system (n8n • GoHighLevel • Zapier • AI Agents)
+📩 Let’s build powerful AI automation systems that scale your business
 </p>
