@@ -22,19 +22,20 @@ I design and develop AI-driven automation systems workflow solutions that help b
 
 ## ⚙️ Core Expertise
 
-🔥 Custom Automation Solutions 🔥
+🔥 Custom Automation Solutions 
 
-🔥 Workflow Automation & Optimization 🔥
+🔥 Workflow Automation & Optimization 
 
-🔥 API & System Integrations 🔥
+🔥 API & System Integrations 
 
-🔥 Business Process Automation 🔥
+🔥 Business Process Automation 
 
-🔥 AI-Powered Workflows 🔥
+🔥 AI-Powered Workflows 
 
-🔥 AI Agent Development 🔥
+🔥 AI Agent Development 
 
-🔥 Problem Solving 🔥</div>
+🔥 Problem Solving
+</div>
 
 <br/>
 <hr/>
