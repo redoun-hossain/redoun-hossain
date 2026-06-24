@@ -70,12 +70,15 @@ I design and develop AI-driven automation systems workflow solutions that help b
 <hr/>
 <br/>
 
-## 🏆 Featured Projects
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=redoun-hossain&repo=your-repo-name)](https://github.com/redoun-hossain)
+## 🏆 Best Projects
+<p align="center">
+  <a href="https://github.com/redoun-hossain?tab=repositories" target="_blank">
+    <img alt="Explore Projects"
+    src="https://img.shields.io/badge/🚀%20Explore%20My%20AI%20Automation%20Projects-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-
-
-## Best Repo -
+## 🏆Best Repo -
 
 [![Java Projects](https://github-readme-stats.vercel.app/api/pin/?username=harun181&repo=Java-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/harun181/Java-Project)
 [![100+ C Problems](https://github-readme-stats.vercel.app/api/pin/?username=harun181&repo=100_plus_C_Problems&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/harun181/100_plus_C_Problems)
