@@ -1,27 +1,26 @@
 ![I am redoun-hossain](https://github.com/redoun-hossain/redoun-hossain/blob/main/ChatGPT%20Image%20Jun%2023%2C%202026%2C%2004_08_36%20PM.png)
 
 <h1 align="center">Hi 👋, I'm REDOUN HOSSAIN</h1>
-<h3 align="center">AI Agent Automation Specialist | Workflow Builder | Problem Solver
+<h3 align="center">Automation & AI Solutions Specialist | Workflow Builder | Problem Solver
 </h3>
 <div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=redoun-hossain&color=red)
 
-Skills: Automation • Workflows • API Integrations • AI Solutions
+Skills: Automation • Workflow Optimization • API Integrations • AI Solutions
 </div>
 
 <br/>
 <hr/>
 <br/>
 
-<h3 align="left">🚀About Me:</h3>
+<h3 align="left">🚀 About Me:</h3>
 
 I design and build custom automation solutions that streamline workflows, improve efficiency, and help solve real-world business challenges.
 
 Passionate about automation, process optimization, and creating practical technology-driven solutions.
                                    
-<h3 align="left">🛠Core Expertise:
-</h3>
+<h3 align="left">🛠 Core Expertise:</h3>
 
 • Custom Automation Solutions
 
@@ -40,7 +39,7 @@ Passionate about automation, process optimization, and creating practical techno
 <hr/>
 <br/>
 
-## 🛠 Tools & Technologies
+## 🛠 Tools & Technologies:
 
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white)
@@ -50,7 +49,7 @@ Passionate about automation, process optimization, and creating practical techno
 ![Webhooks](https://img.shields.io/badge/Webhooks-FF9800?style=for-the-badge)
 
 
-## 📬 Professional Links
+## 📬 Professional Links:
 
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](YOUR_FIVERR_LINK)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](YOUR_UPWORK_LINK)
@@ -60,7 +59,7 @@ Passionate about automation, process optimization, and creating practical techno
 
 
 
-## 🌐 Social Media
+## 🌐 Social Media:
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](YOUR_FACEBOOK_LINK)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_YOUTUBE_LINK)
@@ -114,14 +113,6 @@ Passionate about automation, process optimization, and creating practical techno
 <br/>
 <hr/>
 <br/>
-
-## Connect with me
-
-<div align="center">
-<br/>
-<a href="" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px; margin-right: 2px;" />
-</a>
 <a href="" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px; margin-right: 2px;" />
 </a>
