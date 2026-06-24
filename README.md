@@ -10,7 +10,9 @@
 Skills: Automation • Workflows • API Integrations • AI Solutions
 </div>
 
----------------------------------------------
+<br/>
+<hr/>
+<br/>
 
 <h3 align="left">🚀About Me:</h3>
 
@@ -34,7 +36,9 @@ Passionate about automation, process optimization, and creating practical techno
 • Problem Solving
 
 
--------------
+<br/>
+<hr/>
+<br/>
 
 ## 🛠 Tools & Technologies
 
@@ -64,7 +68,9 @@ Passionate about automation, process optimization, and creating practical techno
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](YOUR_TWITTER_LINK)
 
 
------------
+<br/>
+<hr/>
+<br/>
 
 ## Best Repo -
 
