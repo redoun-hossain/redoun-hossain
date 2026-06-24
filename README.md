@@ -50,6 +50,36 @@ Passionate about automation, process optimization, and creating practical techno
 
 💼 Upwork: your-upwork-profile
 
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="center">
+
+<a href="https://www.fiverr.com/yourusername" target="_blank">
+<img align="center" src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
+</a>
+
+<a href="https://www.upwork.com/freelancers/yourusername" target="_blank">
+<img align="center" src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/yourusername" target="_blank">
+<img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/redoun-hossain" target="_blank">
+<img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://yourwebsite.com" target="_blank">
+<img align="center" src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+</p>
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="center">
