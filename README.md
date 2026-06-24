@@ -57,7 +57,7 @@ I design and develop AI-driven automation systems workflow solutions that help b
 ![Webhooks](https://img.shields.io/badge/Webhooks-FF9800?style=for-the-badge)
 
 
-## 📬 Professional Links:
+## 📬 Connect with me (Professional Links):
 
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](YOUR_FIVERR_LINK)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](YOUR_UPWORK_LINK)
@@ -67,7 +67,7 @@ I design and develop AI-driven automation systems workflow solutions that help b
 
 
 
-## 🌐 Social Media:
+## 🌐 Connect with me (Social Media):
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](YOUR_FACEBOOK_LINK)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_YOUTUBE_LINK)
@@ -135,12 +135,3 @@ I design and develop AI-driven automation systems workflow solutions that help b
 <br/>
 <hr/>
 <br/>
-
-<div align="left">
-  
-## 💬 Contact
-
-🚀 Open for freelance automation projects
-
-📩 DM me for AI & workflow automation solutions
-</div>
