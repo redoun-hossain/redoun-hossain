@@ -93,19 +93,13 @@ Passionate about automation, process optimization, and creating practical techno
   <a href="https://github.com/redoun-hossain">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=redoun-hossain&theme=radical" alt="REDOUN HOSSAIN's GitHub Contribution"/>
   </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/redoun-hossain">
     <img alt="REDOUN HOSSAIN's Github Stats"
          src="https://denvercoder1-github-readme-stats.vercel.app/api?username=redoun-hossain&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
          height="192px" width="49.5%"/>
-  </a>
-
-  <a href="https://github.com/redoun-hossain">
-    <img alt="REDOUN HOSSAIN's Top Languages"
-         src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=redoun-hossain&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
-         height="192px" width="49.5%"/>
+ 
   </a>
 </p>
 
