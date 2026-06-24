@@ -7,7 +7,7 @@
 <h3 align="center">AI Automation Builder | n8n Workflow Expert | API & System Integration Specialist</h3>
 
 <p align="center">
-⚡ Skills: Automation • Workflow Optimization • API Integrations • AI Agents • Business Automation
+⚡ Automation • Workflow Optimization • API Integrations • AI Agents • Business Automation ⚡
 </p>
 
 <p align="center">
