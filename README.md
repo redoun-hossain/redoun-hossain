@@ -62,7 +62,7 @@ Passionate about automation, process optimization, and creating practical techno
 </p>
 
 
-## ⚡ Automation Stack
+## 🛠 Tools & Technologies
 
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
 
@@ -72,11 +72,13 @@ Passionate about automation, process optimization, and creating practical techno
 
 ![CustomGPT](https://img.shields.io/badge/CustomGPT-412991?style=for-the-badge)
 
-![API Integration](https://img.shields.io/badge/API_Integration-success?style=for-the-badge)
+![API](https://img.shields.io/badge/API_Integration-4CAF50?style=for-the-badge)
 
-![Webhooks](https://img.shields.io/badge/Webhooks-orange?style=for-the-badge)
+![Webhook](https://img.shields.io/badge/Webhooks-FF9800?style=for-the-badge)
 
-<br/>
+![AI_Automation](https://img.shields.io/badge/AI_Automation-7B61FF?style=for-the-badge)
+
+![Workflow_Automation](https://img.shields.io/badge/Workflow_Automation-009688?style=for-the-badge)
 
 ## Best Repo -
 
