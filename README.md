@@ -17,6 +17,8 @@ Skills: Automation • Workflow Optimization • API Integrations • AI Agents 
 
 I design and develop AI-driven automation systems workflow solutions that help businesses automate operations, reduce manual effort, and scale efficiently using n8n, GoHighLevel, Zapier, CustomGPT, APIs, and AI agents.
                                    
+<div align="left">
+  
 ## ⚙️ Core Expertise
 
 🔥 Custom Automation Solutions 🔥
@@ -32,7 +34,7 @@ I design and develop AI-driven automation systems workflow solutions that help b
 🔥 AI Agent Development 🔥
 
 🔥 Problem Solving 🔥
-
+</div>
 
 <br/>
 <hr/>
