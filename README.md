@@ -15,7 +15,7 @@ Skills: Automation • Workflow Optimization • API Integrations • AI Agents 
 
 ## 🚀 About Me
 
-I build AI-powered automation systems and workflow solutions that help businesses reduce manual work, improve efficiency, and scale faster using tools like n8n, GoHighLevel, Zapier, CustomGPT, APIs, and AI agents.
+I design and develop AI-driven automation systems workflow solutions that help businesses automate operations, reduce manual effort, and scale efficiently using n8n, GoHighLevel, Zapier, CustomGPT, APIs, and AI agents.
                                    
 ## 🛠 Core Expertise
 
