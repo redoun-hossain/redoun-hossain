@@ -20,19 +20,13 @@ Passionate about automation, process optimization, and creating practical techno
                                    
 ## 🛠 Core Expertise
 
-• Custom Automation Solutions
-
-• Workflow Automation
-
-• Workflow Design & Optimization
-
-• API & System Integrations
-
-• Business Process Automation
-
-• AI-Powered Workflows
-
-• Problem Solving
+Custom Automation Solutions
+Workflow Automation & Optimization
+API & System Integrations
+Business Process Automation
+AI-Powered Workflows
+AI Agent Development
+Problem Solving
 
 
 <br/>
