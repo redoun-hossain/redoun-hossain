@@ -105,17 +105,17 @@ Passionate about automation, process optimization, and creating practical techno
 
 <p align="center">
   <a href="https://github.com/redoun-hossain">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=redoun-hossain&theme=radical" alt="Harun's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=redoun-hossain&theme=radical" alt="REDOUN HOSSAIN's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/redoun-hossain"><img alt="Harun's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=redoun-hossain&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/redoun-hossain"><img alt="REDOUN HOSSAIN's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=redoun-hossain&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/redoun-hossain"><img alt="Harun's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=redoun-hossain&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
-![Harun's Graph](https://github-readme-activity-graph.vercel.app/graph?username=redoun-hossain&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![REDOUN HOSSAIN's Graph](https://github-readme-activity-graph.vercel.app/graph?username=redoun-hossain&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br/>
 
