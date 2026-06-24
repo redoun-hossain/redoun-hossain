@@ -39,8 +39,6 @@ I design and develop AI-driven automation systems and workflow solutions that he
 <br/>
 
 
-<div align="left">
-
 ## 🛠 Tools & Technologies:
 
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
@@ -69,7 +67,9 @@ I design and develop AI-driven automation systems and workflow solutions that he
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](YOUR_TWITTER_LINK)
 
 
-## 🏆 Best Projects:
+## 🏆 Best Projects
+
+<p align="center">
 
   <a href="https://github.com/redoun-hossain" target="_blank">
     <img src="https://img.shields.io/badge/Best%20Project%201-FF6D5A?style=for-the-badge&logo=github&logoColor=white"/>
@@ -95,11 +95,9 @@ I design and develop AI-driven automation systems and workflow solutions that he
 
   <a href="https://github.com/redoun-hossain" target="_blank">
     <img src="https://img.shields.io/badge/Best%20Project%206-FF3D00?style=for-the-badge&logo=github&logoColor=white"/>
-  </div>
   </a>
 
 </p>
-
 
 
 <br/>
