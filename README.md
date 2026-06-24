@@ -1,144 +1,220 @@
-<p align="center">
-  <img src="https://github.com/redoun-hossain/redoun-hossain/blob/main/ChatGPT%20Image%20Jun%2024%2C%202026%2C%2003_58_03%20PM.png" width="90%" style="border-radius:10px;"/>
-</p>
+# ⚡ Automation Expert Portfolio Website
 
-<h1 align="center">Hi 👋, I'm REDOUN HOSSAIN</h1>
+A lightweight, professional freelancer portfolio website built with pure HTML, CSS, and JavaScript.
+Designed for **Fiverr** and **Upwork** automation specialists — no backend, no frameworks, works perfectly on **GitHub Pages**.
 
-<h3 align="center">AI Automation Builder | n8n Workflow Expert | API & System Integration Specialist</h3>
+---
 
-<p align="center">
-⚡ Automation • Workflow Optimization • API Integrations • AI Agents • Business Automation ⚡
-</p>
+## 📁 File Structure
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=redoun-hossain&color=red"/>
-</p>
+```
+your-portfolio/
+│
+├── index.html              ← Home page
+├── portfolio.html          ← Portfolio with 5 service tabs
+├── about.html              ← About me page
+├── contact.html            ← Contact form (FormSubmit.co)
+├── legal.html              ← Privacy Policy & Terms
+├── 404.html                ← Custom 404 error page
+│
+├── css/
+│   └── style.css           ← All styles for the entire website
+│
+├── js/
+│   └── main.js             ← All JavaScript for the entire website
+│
+├── images/
+│   ├── favicon.ico         ← Website icon (browser tab)
+│   ├── profile.jpg         ← Your profile photo
+│   └── projects/
+│       ├── n8n/
+│       │   ├── project-1-thumbnail.jpg
+│       │   ├── project-1-screenshot-1.jpg
+│       │   ├── project-1-screenshot-2.jpg
+│       │   ├── project-1-screenshot-3.jpg
+│       │   ├── project-2-thumbnail.jpg
+│       │   └── project-2-screenshot-1.jpg
+│       ├── zapier/
+│       ├── gohighlevel/
+│       ├── customgpt/
+│       └── others/
+│
+├── robots.txt              ← SEO: tells Google to crawl the site
+├── sitemap.xml             ← SEO: list of all pages for Google
+└── README.md               ← This file
+```
 
-<br/>
-<hr/>
-<br/>
+---
 
+## ✏️ How to Edit
 
-## 🚀 About Me:
+### 1. Change Your Name
+Search for `Your Name` and `YourName` in all HTML files and replace with your real name.
 
-I design and develop AI-driven automation systems and workflow solutions that help businesses automate operations, reduce manual effort, and scale efficiently using tools like n8n, GoHighLevel, Zapier, CustomGPT, APIs, and AI agents.
-                                   
+### 2. Change Your Profile Photo
+- Add your photo to: `images/profile.jpg`
+- Recommended size: **500×500px** (square or portrait)
 
-## ⚙️ Core Expertise
+### 3. Change Colors
+Open `css/style.css` and look at the top for `:root { ... }`.
+Change the color values there to rebrand the entire website at once:
+```css
+--color-primary:   #2563eb;  /* Main blue */
+--color-secondary: #8b5cf6;  /* Purple */
+```
 
-🔥 Custom Automation Solutions  
-🔥 Workflow Automation & Optimization  
-🔥 API & System Integrations  
-🔥 Business Process Automation  
-🔥 AI-Powered Workflows  
-🔥 AI Agent Development  
-🔥 Problem Solving  
+### 4. Change Your Headline
+In `index.html`, find:
+```html
+<h1 class="hero-title">n8n & AI Automation Expert</h1>
+```
+Change the text inside `<h1>` to your real headline.
 
+### 5. Change Stats (Projects, Clients, etc.)
+In `index.html`, find the `hero-stats` section and update the numbers.
+Do the same in `about.html` in the `about-achievements` section.
 
-## 💼 What I Offer
+### 6. Update Your Social Links
+Search for `YOUR_USERNAME` and `YOUR_PROFILE` in all HTML files.
+Replace with your real Fiverr username, Upwork profile URL, LinkedIn handle, and YouTube channel.
 
-✅ AI-Powered Automation Solutions using n8n, Zapier & GoHighLevel  
-✅ End-to-End Workflow & Business Process Automation  
-✅ API & Third-Party Integrations  
-✅ Custom AI Agents & CustomGPT Solutions  
-✅ Scalable Automation Systems for Businesses  
+### 7. Update Your Email Address
+Search for `your-email@example.com` in all HTML files.
+Replace with your **real email address**.
 
-<br/>
-<hr/>
-<br/>
+> ⚠️ **IMPORTANT for FormSubmit:** After you replace the email in `contact.html`,
+> submit the form once on your live site. FormSubmit will send you a confirmation email.
+> Click the confirmation link to activate your form. After that, all form submissions go to your inbox.
 
+---
 
-## 🛠 Tools & Technologies:
+## 📸 How to Change Images
 
-![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white)
-![GoHighLevel](https://img.shields.io/badge/GoHighLevel-0066FF?style=for-the-badge)
-![CustomGPT](https://img.shields.io/badge/CustomGPT-412991?style=for-the-badge)
-![API Integration](https://img.shields.io/badge/API%20Integration-4CAF50?style=for-the-badge)
-![Webhooks](https://img.shields.io/badge/Webhooks-FF9800?style=for-the-badge)
+All image paths follow this pattern:
+```
+images/projects/n8n/project-1-thumbnail.jpg
+images/projects/n8n/project-1-screenshot-1.jpg
+```
 
+To add your real project images:
+1. Create the folder structure: `images/projects/n8n/`, `images/projects/zapier/`, etc.
+2. Add your images with matching names, OR change the `src=""` path in the HTML to match your file names.
 
-## 📬 Connect with me (Professional Links):
+**Recommended image sizes:**
+- Thumbnails: **600×400px**
+- Screenshots: **1200×750px** (wide, 16:10 ratio)
+- Profile photo: **500×500px**
 
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](YOUR_FIVERR_LINK)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](YOUR_UPWORK_LINK)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/redoun-hossain)
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_WEBSITE_LINK)
+---
 
+## 🎬 How to Change YouTube Video IDs
 
+In each project detail panel in `portfolio.html`, find:
+```html
+<iframe src="https://www.youtube.com/embed/YOUR_VIDEO_ID_HERE" ...>
+```
 
-## 🌐 Connect with me (Social Media):
+To get the video ID:
+- If your video URL is: `https://youtu.be/abc123xyz` → ID is `abc123xyz`
+- If your video URL is: `https://www.youtube.com/watch?v=abc123xyz` → ID is `abc123xyz`
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](YOUR_FACEBOOK_LINK)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_YOUTUBE_LINK)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_LINK)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](YOUR_TWITTER_LINK)
+Replace `YOUR_VIDEO_ID_HERE` with your real ID.
 
+---
 
-## 🏆 Best Projects
+## ➕ How to Add a New Project
 
-<p align="center">
+1. Open `portfolio.html`
+2. Find the tab you want to add a project to (e.g., `<!-- TAB: n8n -->`)
+3. Find a comment that says `<!-- PROJECT CARD START (n8n - Project 2) -->`
+4. Copy the entire block from `<!-- PROJECT CARD START -->` to `<!-- PROJECT CARD END -->`
+5. Paste it directly after the last project card, before `</div><!-- end projects-grid -->`
+6. Give the new card a unique `data-project-id` like `n8n-3`
+7. Give the "View Details" button a unique `data-target` like `detail-n8n-3`
+8. Create a matching detail panel: copy an existing `<div class="project-detail" id="detail-n8n-2">` block, change the id to `detail-n8n-3`, and update all content inside.
 
-  <a href="https://github.com/redoun-hossain" target="_blank">
-    <img src="https://img.shields.io/badge/Best%20Project%201-FF6D5A?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+---
 
-  <a href="https://github.com/redoun-hossain" target="_blank">
-    <img src="https://img.shields.io/badge/Best%20Project%202-7F3FBF?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+## 📧 How to Update FormSubmit Email
 
-  <a href="https://github.com/redoun-hossain" target="_blank">
-    <img src="https://img.shields.io/badge/Best%20Project%203-00C853?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+In `contact.html`, find:
+```html
+<form action="https://formsubmit.co/your-email@example.com" ...>
+```
+Replace `your-email@example.com` with your real email.
 
-  <br/>
+Also update the redirect URL:
+```html
+<input type="hidden" name="_next" value="https://YOUR_USERNAME.github.io/YOUR_REPOSITORY_NAME/contact.html?success=true" />
+```
+Replace with your real GitHub Pages URL.
 
-  <a href="https://github.com/redoun-hossain" target="_blank">
-    <img src="https://img.shields.io/badge/Best%20Project%204-FF9800?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+---
 
-  <a href="https://github.com/redoun-hossain" target="_blank">
-    <img src="https://img.shields.io/badge/Best%20Project%205-2962FF?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+## 🌐 How to Host on GitHub Pages
 
-  <a href="https://github.com/redoun-hossain" target="_blank">
-    <img src="https://img.shields.io/badge/Best%20Project%206-FF3D00?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+**Step-by-step:**
 
-</p>
+1. **Create a GitHub account** at [github.com](https://github.com) if you don't have one.
 
+2. **Create a new repository:**
+   - Click the `+` button → "New repository"
+   - Name it something like `automation-portfolio`
+   - Set to **Public**
+   - Click "Create repository"
 
-<br/>
-<hr/>
-<br/>
+3. **Upload your files:**
+   - Click "uploading an existing file" on the new repo page
+   - Drag and drop ALL your files and folders
+   - Commit the upload
 
+4. **Enable GitHub Pages:**
+   - Go to your repository → **Settings** → **Pages**
+   - Under "Source", select `Deploy from a branch`
+   - Branch: `main` | Folder: `/ (root)`
+   - Click **Save**
 
-## 📊 GitHub Stats
+5. **Your site will be live at:**
+   `https://YOUR_USERNAME.github.io/YOUR_REPOSITORY_NAME/`
+   
+   GitHub Pages usually takes 1–3 minutes to go live.
 
-<p align="center">
-  <a href="https://github.com/redoun-hossain">
-    <img alt="REDOUN HOSSAIN's Github Stats"
-         src="https://denvercoder1-github-readme-stats.vercel.app/api?username=redoun-hossain&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
-         height="192px" width="49.5%"/>
-  </a>
-</p>
+6. **After it's live:**
+   - Update `robots.txt` and `sitemap.xml` with your real URL
+   - Update the FormSubmit `_next` redirect URL
+   - Submit your sitemap to [Google Search Console](https://search.google.com/search-console)
 
-<p align="center">
-  <a href="https://github.com/redoun-hossain">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=redoun-hossain&theme=radical" alt="REDOUN HOSSAIN's GitHub Contribution"/>
- 
-  </a>
-</p>
+---
 
-![REDOUN HOSSAIN's Graph](https://github-readme-activity-graph.vercel.app/graph?username=redoun-hossain&custom_title=REDOUN%20HOSSAIN's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+## 🔧 Technologies Used
 
-<br/>
-<hr/>
-<br/>
+- Pure **HTML5** — no frameworks
+- Pure **CSS3** — no Bootstrap or Tailwind
+- Pure **JavaScript** — no jQuery
+- **FormSubmit.co** — free contact form service for static sites
+- **YouTube embeds** — for project demo videos
+- Hosted on **GitHub Pages** — free static hosting
 
+---
 
-<p align="center">
-💬 Open for Freelance AI Automation Projects<br/>
-📩 Let’s build scalable AI automation systems that automate your business
-</p>
+## 📝 Legal Reminder
+
+Before publishing, review `legal.html` and:
+- Update the "Last updated" date
+- Replace `your-email@example.com` with your real email
+- Review the Privacy Policy to ensure it matches how you actually use data
+- Review the Terms & Conditions to match your actual service policies
+
+---
+
+## 💡 Tips for Getting Clients
+
+1. **Add real screenshots** — even blurred ones are better than placeholders
+2. **Record a short Loom/YouTube demo** for each project and embed it
+3. **Update your stats** to real numbers (don't exaggerate)
+4. **Link to your live Fiverr/Upwork gigs** throughout the site
+5. **Keep it fast** — avoid large images (compress with [TinyPNG](https://tinypng.com))
+
+---
+
+*Built with ❤️ for automation freelancers. Good luck with your portfolio!*
