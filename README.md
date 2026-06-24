@@ -38,65 +38,33 @@ Passionate about automation, process optimization, and creating practical techno
 
 
 
-<h2 align="left">📬 Connect With Me</h2>
+## 📬 Professional Links
 
-<p align="left">
-<a href="YOUR_FIVERR_LINK" target="_blank">
-<img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
-</a>
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](YOUR_FIVERR_LINK)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](YOUR_UPWORK_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/redoun-hossain)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_WEBSITE_LINK)
 
-<a href="YOUR_UPWORK_LINK" target="_blank">
-<img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
-</a>
+---
 
-<a href="YOUR_LINKEDIN_LINK" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+## 🌐 Social Media
 
-<a href="https://github.com/redoun-hossain" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](YOUR_FACEBOOK_LINK)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_YOUTUBE_LINK)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_LINK)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](YOUR_TWITTER_LINK)
 
-<a href="YOUR_WEBSITE_LINK" target="_blank">
-<img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
-<a href="YOUR_FACEBOOK_LINK" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-
-<a href="YOUR_YOUTUBE_LINK" target="_blank">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-
-<a href="YOUR_INSTAGRAM_LINK" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-</p>
+---
 
 ## 🛠 Tools & Technologies
 
-![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=flat-square&logo=zapier&logoColor=white)
-![GoHighLevel](https://img.shields.io/badge/GoHighLevel-0066FF?style=flat-square)
-![CustomGPT](https://img.shields.io/badge/CustomGPT-412991?style=flat-square)
-![API Integration](https://img.shields.io/badge/API%20Integration-4CAF50?style=flat-square)
-![Webhooks](https://img.shields.io/badge/Webhooks-FF9800?style=flat-square)
-
-## Best Repo -
-
-[![Java Projects](https://github-readme-stats.vercel.app/api/pin/?username=redoun-hossain&repo=Java-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/redoun-hossain/Java-Project)
-[![100+ C Problems](https://github-readme-stats.vercel.app/api/pin/?username=redoun-hossain&repo=100_plus_C_Problems&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/redoun-hossain/100_plus_C_Problems)
-[![Front End Projects](https://github-readme-stats.vercel.app/api/pin/?username=redoun-hossain&repo=front_end_projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/redoun-hossain/front_end_projects)
-[![Weblitical](https://github-readme-stats.vercel.app/api/pin/?username=redoun-hossain&repo=weblitical&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/redoun-hossain/weblitical)
-
-<p align="left">
-  <a href="https://github.com/redoun-hossain?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
-<br/>
-<hr/>
-<br/>
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white)
+![GoHighLevel](https://img.shields.io/badge/GoHighLevel-0066FF?style=for-the-badge)
+![CustomGPT](https://img.shields.io/badge/CustomGPT-412991?style=for-the-badge)
+![API Integration](https://img.shields.io/badge/API%20Integration-4CAF50?style=for-the-badge)
+![Webhooks](https://img.shields.io/badge/Webhooks-FF9800?style=for-the-badge)
 
 ## 📊 GitHub Stats
 
