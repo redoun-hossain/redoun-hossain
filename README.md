@@ -115,7 +115,7 @@ Passionate about automation, process optimization, and creating practical techno
   <br/>
 </a>
 
-![REDOUN HOSSAIN's Graph](https://github-readme-activity-graph.vercel.app/graph?username=redoun-hossain&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![REDOUN HOSSAIN's Graph](https://github-readme-activity-graph.vercel.app/graph?username=redoun-hossain&custom_title=REDOUN HOSSAIN's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br/>
 
