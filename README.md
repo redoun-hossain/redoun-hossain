@@ -75,8 +75,7 @@ I design and develop AI-driven automation systems workflow solutions that help b
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](YOUR_TWITTER_LINK)
 
 
-## 🏆 Best Projects
-<p align="center">
+## 🏆 Best Projects:
 
   <a href="https://github.com/redoun-hossain" target="_blank">
     <img src="https://img.shields.io/badge/Best%20Project%201-FF6D5A?style=for-the-badge&logo=github&logoColor=white"/>
