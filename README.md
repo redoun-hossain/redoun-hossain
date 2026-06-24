@@ -53,8 +53,6 @@ Passionate about automation, process optimization, and creating practical techno
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="center">
-
 <a href="https://www.fiverr.com/yourusername" target="_blank">
 <img align="center" src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
 </a>
