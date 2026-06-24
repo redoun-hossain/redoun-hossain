@@ -24,9 +24,11 @@ Passionate about automation, process optimization, and creating practical techno
 
 • Custom Automation Solutions
 
+• Workflow Automation
+
 • Workflow Design & Optimization
 
-• API Integrations
+• API & System Integrations
 
 • Business Process Automation
 
