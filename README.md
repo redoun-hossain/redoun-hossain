@@ -69,10 +69,6 @@ I design and develop AI-driven automation systems workflow solutions that help b
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](YOUR_TWITTER_LINK)
 
 
-<br/>
-<hr/>
-<br/>
-
 ## 🏆 Best Projects
 <p align="center">
 
@@ -132,8 +128,11 @@ I design and develop AI-driven automation systems workflow solutions that help b
 <hr/>
 <br/>
 
+<div align="left">
+  
 ## 💬 Contact
 
 🚀 Open for freelance automation projects
 
 📩 DM me for AI & workflow automation solutions
+</div>
