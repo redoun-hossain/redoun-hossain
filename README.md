@@ -64,21 +64,12 @@ Passionate about automation, process optimization, and creating practical techno
 
 ## 🛠 Tools & Technologies
 
-![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
-
-![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white)
-
-![GoHighLevel](https://img.shields.io/badge/GoHighLevel-0066FF?style=for-the-badge)
-
-![CustomGPT](https://img.shields.io/badge/CustomGPT-412991?style=for-the-badge)
-
-![API](https://img.shields.io/badge/API_Integration-4CAF50?style=for-the-badge)
-
-![Webhook](https://img.shields.io/badge/Webhooks-FF9800?style=for-the-badge)
-
-![AI_Automation](https://img.shields.io/badge/AI_Automation-7B61FF?style=for-the-badge)
-
-![Workflow_Automation](https://img.shields.io/badge/Workflow_Automation-009688?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=flat-square&logo=zapier&logoColor=white)
+![GoHighLevel](https://img.shields.io/badge/GoHighLevel-0066FF?style=flat-square)
+![CustomGPT](https://img.shields.io/badge/CustomGPT-412991?style=flat-square)
+![API Integration](https://img.shields.io/badge/API%20Integration-4CAF50?style=flat-square)
+![Webhooks](https://img.shields.io/badge/Webhooks-FF9800?style=flat-square)
 
 ## Best Repo -
 
