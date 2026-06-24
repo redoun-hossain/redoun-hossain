@@ -7,9 +7,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=redoun-hossain&color=red)
 
-Tools: n8n | GoHighLevel | Zapier | CustomGPT
-
-Skills: Automation • Workflows • APIs • AI Solutions
+Skills: Automation • Workflows • API Integrations • AI Solutions
 </div>
 
 ---------------------------------------------
@@ -38,6 +36,16 @@ Passionate about automation, process optimization, and creating practical techno
 
 -------------
 
+## 🛠 Tools & Technologies
+
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white)
+![GoHighLevel](https://img.shields.io/badge/GoHighLevel-0066FF?style=for-the-badge)
+![CustomGPT](https://img.shields.io/badge/CustomGPT-412991?style=for-the-badge)
+![API Integration](https://img.shields.io/badge/API%20Integration-4CAF50?style=for-the-badge)
+![Webhooks](https://img.shields.io/badge/Webhooks-FF9800?style=for-the-badge)
+
+
 ## 📬 Professional Links
 
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](YOUR_FIVERR_LINK)
@@ -55,16 +63,6 @@ Passionate about automation, process optimization, and creating practical techno
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_LINK)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](YOUR_TWITTER_LINK)
 
-
-
-## 🛠 Tools & Technologies
-
-![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white)
-![GoHighLevel](https://img.shields.io/badge/GoHighLevel-0066FF?style=for-the-badge)
-![CustomGPT](https://img.shields.io/badge/CustomGPT-412991?style=for-the-badge)
-![API Integration](https://img.shields.io/badge/API%20Integration-4CAF50?style=for-the-badge)
-![Webhooks](https://img.shields.io/badge/Webhooks-FF9800?style=for-the-badge)
 
 -----------
 
@@ -108,6 +106,7 @@ Passionate about automation, process optimization, and creating practical techno
 ![REDOUN HOSSAIN's Graph](https://github-readme-activity-graph.vercel.app/graph?username=redoun-hossain&custom_title=REDOUN%20HOSSAIN's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br/>
+<hr/>
 <br/>
 
 ## Connect with me
