@@ -2,7 +2,7 @@
   <img src="https://github.com/redoun-hossain/redoun-hossain/blob/main/ChatGPT%20Image%20Jun%2024%2C%202026%2C%2003_58_03%20PM.png" width="90%" style="border-radius:10px;"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm REDOUN HOSSAIN</h1>
+<h1 align="center">Hi 👋, I'm Arfin Sami</h1>
 
 <h3 align="center">AI Automation Builder | n8n Workflow Expert | API & System Integration Specialist</h3>
 
